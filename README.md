@@ -1,4 +1,5 @@
-## Hello 👋, I'm Jay!
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Jay!)
+<!--## Hello 👋, I'm Jay!-->
 
 <!--
 **j-oun/j-oun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

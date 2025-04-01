@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Jay!)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Jay!&reversal=true&textBg=false&fontAlign=50&fontAlignY=40)
 <!--## Hello 👋, I'm Jay!-->
 
 <!--
